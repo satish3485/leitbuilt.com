@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="apps/web/public/brand/logo.png" alt="Leitbuilt" width="88">
+  <a href="https://leitbuilt.com">
+    <img src="https://leitbuilt.com/brand/logo.png" alt="Leitbuilt" width="96">
+  </a>
 </p>
 
 <h1 align="center">Leitbuilt</h1>
@@ -10,13 +12,19 @@
 </p>
 
 <p align="center">
-  <a href="https://leitbuilt.com"><strong>Open Leitbuilt</strong></a>
+  <a href="https://leitbuilt.com"><img src="https://img.shields.io/badge/Open-leitbuilt.com-FF5A36?style=for-the-badge" alt="Open leitbuilt.com"></a>
 </p>
 
 <p align="center">
-  <img src="apps/web/public/landing/coffee.jpg" alt="A café menu on a screen" width="32%">
-  <img src="apps/web/public/landing/shop.jpg" alt="A shop display" width="32%">
-  <img src="apps/web/public/landing/table.jpg" alt="A studio screen" width="32%">
+  <img src="https://leitbuilt.com/landing/coffee.jpg" alt="A café menu on a screen" width="30%">
+  <img src="https://leitbuilt.com/landing/shop.jpg" alt="A shop display" width="30%">
+  <img src="https://leitbuilt.com/landing/table.jpg" alt="A studio screen" width="30%">
+</p>
+
+<p align="center">
+  <img src="https://leitbuilt.com/landing/soup.jpg" alt="A menu board" width="30%">
+  <img src="https://leitbuilt.com/landing/jazz.jpg" alt="An evening screen" width="30%">
+  <img src="https://leitbuilt.com/landing/store.jpg" alt="A storefront screen" width="30%">
 </p>
 
 ---
@@ -25,14 +33,21 @@
 
 Leitbuilt is for a café menu, a shop poster, or a studio announcement. You design it in the browser, publish it, and any TV that opens your link keeps showing it. Playlists and schedules change the screen through the day. If the Wi-Fi drops, the last design stays up.
 
-- Design a menu, a poster, running text, or a multi-page PDF.
-- Pair a TV or tablet with one link.
-- Let playlists and schedules switch content on their own.
-- Put a QR code on screen and see how many people open it.
-- Earn from a short ad on your screen, or advertise on a screen nearby.
+| | |
+| --- | --- |
+| **Design** | A menu, a poster, running text, or a multi-page PDF. |
+| **Any screen** | Pair a TV or tablet with one link. |
+| **On schedule** | Playlists switch what is on screen through the day. |
+| **QR codes** | Put a code on screen and see how many people open it. |
+| **Ads** | Earn from a short ad on your screen, or advertise on a screen nearby. |
+
+<p align="center">
+  <img src="https://leitbuilt.com/hardware/hdmi-stick.jpg" alt="HDMI stick for a TV" width="42%">
+  <img src="https://leitbuilt.com/hardware/android-box.jpg" alt="Android box for a screen" width="42%">
+</p>
 
 It is free to start. The app is in English, German, French, Spanish, Italian, Dutch, and Portuguese.
 
 <p align="center">
-  <a href="https://leitbuilt.com">https://leitbuilt.com</a>
+  <a href="https://leitbuilt.com"><strong>https://leitbuilt.com</strong></a>
 </p>
